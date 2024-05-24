@@ -23,7 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umairr07&show_icons=true&locale=en" alt="umairr07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umairr07&" alt="umairr07" /></p>
- 👋
 
 <!--
 **umairr07/umairr07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
