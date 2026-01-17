@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairr07&label=Profile%20views&color=0e75b6&style=flat" alt="umairr07" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack Projects**
+- 🔭 I’m currently learning and working on **MERN Stack Projects**
 
 - 📫 How to reach me **imumairshaikh07@gmail.com**
 
@@ -39,4 +39,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit15-web&" alt="umairr07" /></p>
 
